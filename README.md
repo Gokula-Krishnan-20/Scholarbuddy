@@ -1,0 +1,2 @@
+# Scholarbuddy
+Recommendation for scholarship
